@@ -55,7 +55,7 @@
   "noServer": "Sense servidors afegits",
   "addServer": "Afegir servidor",
   "manageServer": "Gestionar servidors",
-  "appSetting": "Opcions",
+  "appSetting": "Configuració",
   "setCategoryDialogTittle": "Assignar categoria",
   "editCategory": "Editar categoria",
   "downloadedInHomeList": "{completed} (total: {totalSize})",
